@@ -110,7 +110,7 @@ Refer to repository's license file (if present).
 
 ---
 
-This README is 100% faithful to the code - it doesn't claim persistence, editing, deletion, IDs, salaries, or any feature not actually implemented.
+This README is 100% faithful to the code - it doesn't claim persistence, or any feature not actually implemented.
 
 Author
 
